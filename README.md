@@ -19,12 +19,15 @@ Explain the purpose of this election audit analysis.
     Denver county had the largest turn out with 306,055 votes
     
   - **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
- | Candidate    | Total Number of Votes | Percentage of Total Vote |
- |-----------|-----------------------|--------------------------|
- | Diana DeGette     | 272,892               | 73.8%                    |
- | Charles Casper Stockham | 85,213                | 23.0%                    |
- | Raymon Anthony Doane  | 11,606                | 3.1%                     |
+
+| Candidate               | Total Number of Votes | Percentage of Total Vote |
+|-------------------------|-----------------------|--------------------------|
+| Diana DeGette           | 272,892               | 73.8%                    |
+| Charles Casper Stockham | 85,213                | 23.0%                    |
+| Raymon Anthony Doane    | 11,606                | 3.1%                     |
+
   - **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
+    Diana DeGette won the election with 272,892 votes. She won 73.8% of the total vote
  
   
 ## Election-Audit Summary: 
