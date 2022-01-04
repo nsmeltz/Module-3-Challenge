@@ -9,9 +9,9 @@ Explain the purpose of this election audit analysis.
     There were 369,711 votes cast in this congressional election
   - **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
  
-          | County  | Number of Votes | Percentage of Total Number of Votes |
+          | County | Number of Votes | Percentage of Total Number of Votes |
           | :---: | :---: | :---: |
-          | Denver  | 306,055 | 82.8% |
+          | Denver | 306,055 | 82.8% |
           
   - **Which county had the largest number of votes?**
   - **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
