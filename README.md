@@ -9,15 +9,23 @@ Explain the purpose of this election audit analysis.
     There were 369,711 votes cast in this congressional election
   - **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
  
-        | County    | Total Number of Votes | Percentage of Total Vote |
-        |-----------|-----------------------|--------------------------|
-        | Denver    | 306,005               | 82.8%                    |
-        | Jefferson | 38,855                | 10.5%                    |
-        | Arapahoe  | 24,801                | 6.7%                     |
+ | County    | Total Number of Votes | Percentage of Total Vote |
+ |-----------|-----------------------|--------------------------|
+ | Denver    | 306,055               | 82.8%                    |
+ | Jefferson | 38,855                | 10.5%                    |
+ | Arapahoe  | 24,801                | 6.7%                     |
           
   - **Which county had the largest number of votes?**
+    Denver county had the largest turn out with 306,055 votes
+    
   - **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
+ | Candidate    | Total Number of Votes | Percentage of Total Vote |
+ |-----------|-----------------------|--------------------------|
+ | Diana DeGette     | 272,892               | 73.8%                    |
+ | Charles Casper Stockham | 85,213                | 23.0%                    |
+ | Raymon Anthony Doane  | 11,606                | 3.1%                     |
   - **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
+ 
   
 ## Election-Audit Summary: 
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
