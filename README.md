@@ -9,11 +9,11 @@ Explain the purpose of this election audit analysis.
     There were 369,711 votes cast in this congressional election
   - **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
  
-| County    | Total Number of Votes | Percentage of Total Vote |
-|-----------|-----------------------|--------------------------|
-| Denver    | 306,005               | 82.8%                    |
-| Jefferson | 38,855                | 10.5%                    |
-| Arapahoe  | 24,801                | 6.7%                     |
+        | County    | Total Number of Votes | Percentage of Total Vote |
+        |-----------|-----------------------|--------------------------|
+        | Denver    | 306,005               | 82.8%                    |
+        | Jefferson | 38,855                | 10.5%                    |
+        | Arapahoe  | 24,801                | 6.7%                     |
           
   - **Which county had the largest number of votes?**
   - **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
