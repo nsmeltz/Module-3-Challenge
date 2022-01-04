@@ -31,6 +31,4 @@ The purpose of this audit was to determine the number of votes and percentage of
  
   
 ## Election-Audit Summary: 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
 This script can be used to load in any election csv, assuming it is in the exact same format at the original election_results.csv (ie 3 columns of data: ballot ID, county, candidate). This script could be applied to a state-wide election dataset that includes more counties and candidates. Given input data about zipcode or city the script could be modified for analysis of the voting trends in a city or zipcode. The script could also be modified to show a graphical representation of the election outcomes via pie or bar graphs. 
